@@ -50,7 +50,7 @@ Projeto desenvolvido durante o Bootcamp da SoulCode para demonstrar o conhecimen
 * < th > - Define o cabeçalho da tabela;
 * < tr > - Define uma linha da tabela;
 * < ul > - Define uma lista desordenada;
-* < var > - Define uma variável;
+
 
 
 # Deploy do projeto :computer:
